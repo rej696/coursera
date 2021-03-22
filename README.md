@@ -5,31 +5,33 @@ Repository containing notes regarding and from computer science coursera courses
 First Course from each Specialisation/Stream ==> @ 7.5 hrs a week is 23 weeks
 After Completeing first course, can continue rest of specific specialisation at own discretion
 
-| Course | Time (hrs) |
-|---|---|
-| [Computational Thinking Problem Solving](https://www.coursera.org/learn/computational-thinking-problem-solving)| 18 |
-| [Mathematical Thinking in Computer Science](https://www.coursera.org/learn/what-is-a-proof?specialization=discrete-mathematics) | 41 |
-| [Functional Programming Principles in Scala](https://www.coursera.org/learn/progfun1?specialization=scala) | 45 |
-| [Human-Centred Design: an Introduction](https://www.coursera.org/learn/human-computer-interaction?specialization=interaction-design) | 14 |
-| [Software Development Processes and Methodology](https://www.coursera.org/learn/software-processes?specialization=software-development-lifecycle) | 22 |
-| [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning) | 20 |
-| [Fundamentals of Network Communication](https://www.coursera.org/learn/fundamentals-network-communications?specialization=computer-communications) | 15 |
+| Specialisation | Course | Time (hrs) |
+|---|---|---|
+| N/A | [Computational Thinking Problem Solving](https://www.coursera.org/learn/computational-thinking-problem-solving)| 18 |
+| [Discrete Mathematics](https://www.coursera.org/specializations/discrete-mathematics) | [Mathematical Thinking in Computer Science](https://www.coursera.org/learn/what-is-a-proof?specialization=discrete-mathematics) | 41 |
+| [Scala](https://www.coursera.org/specializations/scala) | [Functional Programming Principles in Scala](https://www.coursera.org/learn/progfun1?specialization=scala) | 45 |
+| [Interaction Design](https://www.coursera.org/specializations/interaction-design) | [Human-Centred Design: an Introduction](https://www.coursera.org/learn/human-computer-interaction?specialization=interaction-design) | 14 |
+| [Software Developement Lifecycle](https://www.coursera.org/specializations/software-development-lifecycle) | [Software Development Processes and Methodology](https://www.coursera.org/learn/software-processes?specialization=software-development-lifecycle) | 22 |
+| [Deep Learning](https://www.coursera.org/specializations/deep-learning) | [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning) | 20 |
+| [Computer Communications](https://www.coursera.org/specializations/computer-communications) | [Fundamentals of Network Communication](https://www.coursera.org/learn/fundamentals-network-communications?specialization=computer-communications) | 15 |
 
 
 ## Foundation of Computation
-- [Computational Thinking Problem Solving](https://www.coursera.org/learn/computational-thinking-problem-solving)
+### [Computational Thinking Problem Solving](https://www.coursera.org/learn/computational-thinking-problem-solving)
   - 18 hrs
   - Neat, brief introduction to computational concepts \(Search algorithms, Von Neumann Architechture, Decomposition etc.\)
   - Perhaps overlaps with content from apprenticeship course, but still worth doing.
   - Included with Capgemini Coursera Subscription
-- [Discrete Mathematics](https://www.coursera.org/specializations/discrete-mathematics)
+### [Discrete Mathematics](https://www.coursera.org/specializations/discrete-mathematics)
   - 6 months at 5 hrs/week: 120 hrs
   - Included with Capgemini Coursera Subscription
-    1. [Mathematical Thinking in Computer Science](https://www.coursera.org/learn/what-is-a-proof?specialization=discrete-mathematics): 41 hrs
-    2. [Combinatorics and Probability](https://www.coursera.org/learn/combinatorics?specialization=discrete-mathematics): 20 hrs
-    3. [Introduction to Graph Theory](https://www.coursera.org/learn/graphs?specialization=discrete-mathematics): 20 hrs
-    4. [Number Theory and Cryptography](https://www.coursera.org/learn/number-theory-cryptography?specialization=discrete-mathematics): 19 hrs
-    5. [Delivery Problem](https://www.coursera.org/learn/delivery-problem?specialization=discrete-mathematics): 13 hrs
+| Course | Time (hrs) |
+|---|---|
+| [Mathematical Thinking in Computer Science](https://www.coursera.org/learn/what-is-a-proof?specialization=discrete-mathematics) | 41 |
+| [Combinatorics and Probability](https://www.coursera.org/learn/combinatorics?specialization=discrete-mathematics) | 20 |
+| [Introduction to Graph Theory](https://www.coursera.org/learn/graphs?specialization=discrete-mathematics) | 20 |
+| [Number Theory and Cryptography](https://www.coursera.org/learn/number-theory-cryptography?specialization=discrete-mathematics) | 19 |
+| [Delivery Problem](https://www.coursera.org/learn/delivery-problem?specialization=discrete-mathematics) | 13 |
 
 ## Functional Programming
 - [Scala](https://www.coursera.org/specializations/scala)
