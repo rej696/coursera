@@ -25,6 +25,7 @@ After Completeing first course, can continue rest of specific specialisation at 
 ### [Discrete Mathematics](https://www.coursera.org/specializations/discrete-mathematics)
   - 6 months at 5 hrs/week: 120 hrs
   - Included with Capgemini Coursera Subscription
+
 | Course | Time (hrs) |
 |---|---|
 | [Mathematical Thinking in Computer Science](https://www.coursera.org/learn/what-is-a-proof?specialization=discrete-mathematics) | 41 |
