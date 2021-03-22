@@ -2,9 +2,9 @@
 Repository containing notes regarding and from computer science coursera courses
 
 ## Executive Summary
-First Course from each Specialisation/Stream ==> @ 7.5 hrs a week is 23 weeks
+First course from each Specialisation/Stream ==> @ 7.5 hrs a week is 23 weeks
 
-After Completeing first course, can continue rest of specific specialisation at own discretion
+After completing first course, can continue rest of specific specialisation at own discretion
 
 | Specialisation | Course | Time (hrs) |
 |---|---|---|
