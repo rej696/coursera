@@ -50,6 +50,9 @@ Repository containing notes regarding and from computer science coursera courses
 | [Functional Programming in Scala Capstone](https://www.coursera.org/learn/scala-capstone?specialization=scala) | 27 |
 
 ### Other Functional Programming Resources
+- [Structure and Interpretation of Programs](https://mitpress.mit.edu/sites/default/files/sicp/index.html)
+  - Wizard Book n. Hal Abelson's, Jerry Sussman's and Julie Sussman's Structure and Interpretation of Computer Programs (MIT Press, 1984; ISBN 0-262-01077-1), an excellent computer science text used in introductory courses at MIT. So called because of the wizard on the jacket. One of the bibles of the LISP/Scheme world. Also, less commonly, known as the Purple Book.
+  - Uses the Scheme Dialect of Lisp
 - [Learn You A Haskell](http://learnyouahaskell.com/chapters)
   - Free online book for learning functional programming with Haskell
 - [Clojure For The Brave and True](https://www.braveclojure.com/foreword/)
